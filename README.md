@@ -1,7 +1,7 @@
 ![](/home/srotoswini/Desktop/Srotoswini-main/devsro.jpeg) 
 ![image](https://user-images.githubusercontent.com/71013480/166664614-1cf505c6-aa5d-4cc1-a8b6-b5e859b77a38.png)
 <!-- Enter Your Image -->
-<h2 align="center">Hi <img ssrc="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Srotoswini Paul</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Srotoswini Paul</h2>
 <h3 align="center">Being a creative thinker and problem solver, I find endless fascination in implementing innovative ideas into code! </h3>
 
 - 🔭 I’m currently working on **Android App with React Native**
